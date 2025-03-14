@@ -1,4 +1,4 @@
-# AWS Associate Solutions Architect Notes
+# AWS Associate Solutions Architect Notes 
 
 # What do I need for doing these course(s):
 - AWS account Free tier
